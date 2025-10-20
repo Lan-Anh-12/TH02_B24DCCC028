@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+<<<<<<< HEAD
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 700px;
+=======
+}
+
+.container {
+<<<<<<< HEAD
+  max-width: 400px;
+=======
+  max-width: 500px;
+>>>>>>> 6fdeb2529b26a3b8c1864a8cfd99a6d8248ba700
+>>>>>>> 0009ee2387c3bcdc3b2eefe7a300986c3230a9d9
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px #ddd;
+}
+
+h2 {
+  text-align: center;
+}
+
+<<<<<<< HEAD
+.article {
+  margin-bottom: 20px;
+}
+
+.article-img {
+  width: 100%;
+  max-width: 200px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 20px 0;
+=======
+<<<<<<< HEAD
+.input-group {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  background: #4a90e2;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #357ab8;
+}
+
+.result {
+  margin-top: 20px;
+  background: #f2f2f2;
+  padding: 10px;
+  border-radius: 5px;
+=======
+.student-list {
+  list-style: none;
+  padding: 0;
+}
+
+.student-list li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.student-list li:last-child {
+  border-bottom: none;
+}
+
+span {
+  color: #555;
+  font-size: 14px;
+>>>>>>> 6fdeb2529b26a3b8c1864a8cfd99a6d8248ba700
+>>>>>>> 0009ee2387c3bcdc3b2eefe7a300986c3230a9d9
+}

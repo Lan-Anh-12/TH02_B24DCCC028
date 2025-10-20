@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px #ddd;
+}
+
+h2 {
+  text-align: center;
+}
+
+.student-list {
+  list-style: none;
+  padding: 0;
+}
+
+.student-list li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.student-list li:last-child {
+  border-bottom: none;
+}
+
+span {
+  color: #555;
+  font-size: 14px;
+}
